@@ -1,0 +1,16 @@
+ModulodeInicio = 150, 150, 893, 575, 
+Editor = 200, 200, 1078, 635, C, 75, 75, 824, 500, C
+CalendarioFiscal = 22, 22, 811, 450, C, 100, 100, 849, 525, C
+FmReporte = 125, 125, 891, 550, C, 125, 125, 874, 550, CZ
+FrmParamExportar = 0, 0, 0, 0, C, 150, 150, 899, 575, C
+FrmConsulta = 175, 175, 1053, 610, C, 175, 175, 924, 600, C
+frmSplash = 100, 100, 949, 509, , 200, 200, 949, 625, C
+Retenciones = 50, 50, 799, 475, Z, 25, 25, 774, 450, C
+ImprimirAIntervaloISLR = 125, 125, 842, 550, C, 0, 0, 749, 425, C
+RetencionesISLR = 0, 0, 877, 409, , 25, 25, 774, 450, C
+Form1 = 0, 0, 0, 0, C, 50, 50, 799, 475, C
+ImprimirAIntervalo = 100, 100, 757, 525, , 75, 75, 824, 500, C
+FrmIslrporMes = 175, 175, 924, 600, C, 100, 100, 849, 525, C
+FrmLibCompra = 198, 198, 987, 626, C, 125, 125, 874, 550, C
+BusqRetenciones = 175, 175, 924, 600, C, 100, 100, 849, 525, C
+FrmDeclaracion = 22, 22, 811, 450, , 154, 154, 943, 582, C
